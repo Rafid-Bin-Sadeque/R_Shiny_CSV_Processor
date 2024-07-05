@@ -40,5 +40,3 @@ This Shiny application processes a CSV file containing email addresses to find t
 3. **Download the Result**: Once processing is complete, click the "Download Processed CSV" button to download the result.
 
 ---
-
-Feel free to customize this summary to better fit your needs or add more details as required!
