@@ -1,7 +1,3 @@
-Here's a summarized version of your R Shiny app to include in a README file for viewers:
-
----
-
 # R Shiny CSV Processor
 
 ## Overview
